@@ -9,7 +9,7 @@
    javac -version<br>
    
 # Eclipse
-1. download zip file: https://www.eclipse.org/downloads/ <br>
+1. download **zip** file: https://www.eclipse.org/downloads/ <br>
 2. unzip:  c:/java/eclipse<br>
 3. create shortcut<br>
 4. create workspace:  folder c:\java\eclipse\ws<br>
