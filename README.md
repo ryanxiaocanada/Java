@@ -17,6 +17,6 @@ https://www.facebook.com/groups/2434763483317444/
 Ryan
 
 # Basic requirements
-1. Computre Information
+1. Computre Information <br>
 ![alt text](https://github.com/ryanxiaocanada/Java/blob/master/SystemInfo.jpg "System Information")
 2.
