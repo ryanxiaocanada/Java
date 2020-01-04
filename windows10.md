@@ -4,6 +4,5 @@
 ![alt text](https://github.com/ryanxiaocanada/Java/blob/master/SystemInfo.jpg "System Information")
 <br>
 2. ShortCut Keys <br>
-..1 a
-..2 b
-..3 c
+  - Tab
+  - Windows + D
