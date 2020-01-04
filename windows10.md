@@ -6,7 +6,7 @@
 2. ShortCut Keys <br>
   - Tab <br>
   - Windows + D <br>
-  - Windows + R  (+cmd +{***}) <br>
+  - Windows + R  (+cmd)  <br>
   - Alt + Tab <br>
   - Ctrl + A <br>
   - Ctrl + C <br>
@@ -14,3 +14,14 @@
   - Ctrl + X <br>
   - Ctrl + Z <br>
   - Ctrl + Y <br>
+  <br>
+3. System information (Windows + R)<br>
+  -Windows + R + msinfo32<br>
+<br>
+4. Folder (Directory) 
+- Windows + E <br>
+- 4.1. This PC
+- 4.2. C Drive
+- 4.3. Disk
+- 4.4. Create a new folder: java
+- 4.5. Create a new folder under java: example
