@@ -16,7 +16,7 @@ https://repl.it/languages/java10 <br>
 3. create shortcut<br>
 4. create workspace:  folder c:\java\eclipse\ws<br>
 5. jre setup
-
+![alt text](https://github.com/ryanxiaocanada/Java/blob/master/eclipse_preference.JPG "jre")
 ![alt text](https://github.com/ryanxiaocanada/Java/blob/master/eclipse_jre.JPG "jre")
 6. create a java project: Lesson1<br>
 7. create a java class: HelloWorld.java<br>
