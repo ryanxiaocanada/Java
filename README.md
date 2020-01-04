@@ -14,9 +14,10 @@ https://github.com/ryanxiaocanada/Java
 https://www.facebook.com/groups/2434763483317444/
 
 # Introduction
-Ryan
+Ryan (https://github.com/ryanxiaocanada/Java/blob/master/Ryan.MD)
 
-# Basic requirements
-1. Computre Information <br>
+# Basic Knowledge of Windows 10
+1. Check system information <br>
 ![alt text](https://github.com/ryanxiaocanada/Java/blob/master/SystemInfo.jpg "System Information")
-2.
+<br>
+2. ShortCut Keys 
