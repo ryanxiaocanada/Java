@@ -26,4 +26,6 @@ public class HelloWorld {
 # 4. Folders and Files under java project
 ![alt text](https://github.com/ryanxiaocanada/Java/blob/master/javaCompiler.JPG "jvm")<br>
 
-# 5. 
+# 5. Command Line
+ - javac
+ - java
