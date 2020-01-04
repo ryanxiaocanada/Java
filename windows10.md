@@ -20,8 +20,8 @@
 <br>
 4. Folder (Directory) 
 - Windows + E <br>
-- 4.1. This PC
-- 4.2. C Drive
-- 4.3. Disk
-- 4.4. Create a new folder: java
-- 4.5. Create a new folder under java: example
+- 4.1. This PC<br>
+- 4.2. C Drive<br>
+- 4.3. Disk<br>
+- 4.4. Create a new folder: java<br>
+- 4.5. Create a new folder under java: example<br>
