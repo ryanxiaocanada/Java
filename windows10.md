@@ -6,7 +6,7 @@
 2. ShortCut Keys <br>
   - Tab <br>
   - Windows + D <br>
-  - Windows + R <br>
+  - Windows + R  (+cmd +{***}) <br>
   - Alt + Tab <br>
   - Ctrl + A <br>
   - Ctrl + C <br>
