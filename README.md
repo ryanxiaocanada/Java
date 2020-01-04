@@ -13,3 +13,10 @@ https://github.com/ryanxiaocanada/Java
 # Facebook Group
 https://www.facebook.com/groups/2434763483317444/
 
+# Introduction
+Ryan
+
+# Basic requirements
+1. Computre Information
+
+2.
