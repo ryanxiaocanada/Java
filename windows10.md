@@ -8,6 +8,7 @@
   - Windows + D <br>
   - Windows + R  (+cmd)  <br>
   - Alt + Tab <br>
+  - Alt + Esc <br>
   - Ctrl + A <br>
   - Ctrl + C <br>
   - Ctrl + V <br>
