@@ -1,0 +1,17 @@
+
+# JDK
+1. download: https://www.oracle.com/technetwork/java/javase/downloads/index.html <br>
+2. version: 1.8 <br>
+3. installation: suggestion- c:\java_jdk <br>
+4. JAVA_HOME and path<br>
+5. verification:<br>
+   java -version<br>
+   javac -version<br>
+   
+# Eclipse
+1. download zip file: https://www.eclipse.org/downloads/ <br>
+2. unzip:  c:/java/eclipse<br>
+3. create shortcut<br>
+4. create workspace:  folder c:\java\eclipse\ws<br>
+5. create a java project: Lesson1<br>
+6. create a java class: HelloWorld.java<br>
