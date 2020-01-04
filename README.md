@@ -21,3 +21,8 @@ Ryan (https://github.com/ryanxiaocanada/Java/blob/master/Ryan.MD)
 ![alt text](https://github.com/ryanxiaocanada/Java/blob/master/SystemInfo.jpg "System Information")
 <br>
 2. ShortCut Keys 
+| Tables        | Are           |
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |  
