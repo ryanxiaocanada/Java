@@ -15,5 +15,6 @@ https://repl.it/languages/java10 <br>
 2. unzip:  c:/java/eclipse<br>
 3. create shortcut<br>
 4. create workspace:  folder c:\java\eclipse\ws<br>
-5. create a java project: Lesson1<br>
-6. create a java class: HelloWorld.java<br>
+5. jre setup
+6. create a java project: Lesson1<br>
+7. create a java class: HelloWorld.java<br>
