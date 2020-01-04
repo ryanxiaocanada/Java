@@ -26,3 +26,9 @@
 - 4.3. Disk<br>
 - 4.4. Create a new folder: java<br>
 - 4.5. Create a new folder under java: example<br>
+
+<br>
+5. Dos command line <br>
+ - Windows + R  (+cmd)  <br>
+ - cd<br>
+ - dir<br>
