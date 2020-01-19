@@ -3,6 +3,8 @@ https://repl.it/languages/java10 <br>
 
 # 2.JDK
 1. download: https://www.oracle.com/technetwork/java/javase/downloads/index.html <br>
+   ryanxiaocanada@gmail.com<br>
+   Montreal1<br>
 2. version: 1.8 <br>
 3. installation: suggestion- c:\java_jdk <br>
 4. JAVA_HOME and path<br>
