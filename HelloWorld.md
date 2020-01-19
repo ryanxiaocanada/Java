@@ -18,6 +18,9 @@ public class HelloWorld {
 # 2. Run (execute)
  - Alt + Shift + X , J <br>
  
+ javac HelloWorld.java <br>
+ java HelloWorld <br>
+ 
 # 3. Debug
   - 3.1 break point <br>
   - 3.2 step over **<F6>**<br>
