@@ -11,7 +11,7 @@ https://github.com/ryanxiaocanada/Java
 
 
 # 3.Facebook Group
-https://www.facebook.com/groups/2434763483317444/
+(Removed)
 
 # 4.Introduction
 Ryan (https://github.com/ryanxiaocanada/Java/blob/master/Ryan.MD)
