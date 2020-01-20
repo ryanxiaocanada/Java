@@ -7,6 +7,7 @@
   - Tab <br>
   - Windows + D <br>
   - Windows + R  (+cmd)  <br>
+  - Windows + E <br>
   - Alt + Tab <br>
   - Alt + Esc <br>
   - Ctrl + A <br>
