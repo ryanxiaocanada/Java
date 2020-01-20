@@ -14,7 +14,7 @@ https://github.com/ryanxiaocanada/Java
 (Removed)
 
 # 4.Introduction
-Ryan (https://github.com/ryanxiaocanada/Java/blob/master/Ryan.MD)
+(https://github.com/ryanxiaocanada/Java/blob/master/Ryan.MD)
 
 # 5.Basic Knowledge of Windows 10
 Windows (https://github.com/ryanxiaocanada/Java/blob/master/windows10.md)
